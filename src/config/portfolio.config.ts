@@ -2,17 +2,17 @@
 export const portfolioConfig = {
   // Personal Information
   personal: {
-    name: "Aegis",
+    name: "Zenkai",
     title: "Bot Developer",
-    tagline: "Hello, I'm Aegis, a professional bot developer specializing in modern digital solutions. I create reliable, scalable applications that help businesses grow and succeed online.",
-    email: "aegis@strelixcloud.com",
+    tagline: "Hello, I'm Zenkai, a professional bot developer specializing in modern digital solutions. I create reliable, scalable applications that help businesses grow and succeed online.",
+    email: "spraygod.gg@gmail.com",
     location: "N/A",
-    avatar: "/src/assets/aegis.png"
+    avatar: "/src/assets/Zenkai.png"
   },
 
   // SEO & Meta
   seo: {
-    title: "Aegis - Bot Developer Portfolio",
+    title: "Zenkai - Bot Developer Portfolio",
     description: "Professional bot developer creating modern applications. View my portfolio showcasing recent projects and technical expertise.",
     keywords: ["bot developer", "discord.py", "python", "node.js", "discord bots", "automation"],
     ogImage: "/og-image.png"
@@ -58,26 +58,26 @@ export const portfolioConfig = {
   // Projects Configuration
   projects: [
     {
-      name: "StrelixCloud",
+      name: "ZenkaiCloud",
       year: "2025",
       description: "Professional hosting platform providing custom development and premium digital solutions for modern businesses and gaming communities.",
       tags: ["Pterodactyl", "Proxmox", "Docker"],
       status: "production",
       featured: true,
       links: {
-        github: "https://github.com/AeroXDevs",
-        live: "https://strelixcloud.com"
+        github: "https://github.com/ZenkaiDevs",
+        live: "https://Zenkaicloud.com"
       }
     },
     {
-      name: "AeroX",
+      name: "Zenkai",
       year: "2025", 
       description: "A comprehensive development platform and community hub for programmers and coders.",
       tags: ["Discord.py", "Python3", "Nodejs"],
       status: "production",
       featured: true,
       links: {
-        github: "https://github.com/AeroXDevs",
+        github: "https://github.com/ZenkaiDevs",
         live: "https://discord.gg/ZVz7CgTy5v"
       }
     },
@@ -89,8 +89,8 @@ export const portfolioConfig = {
       status: "production",
       featured: true,
       links: {
-        github: "https://github.com/AeroXDevs",
-        live: "https://discord.gg/strelix"
+        github: "https://github.com/ZenkaiDevs",
+        live: "https://discord.gg/Zenkai"
       }
     },
     {
@@ -101,31 +101,31 @@ export const portfolioConfig = {
       status: "coming soon",
       featured: false,
       links: {
-        github: "https://github.com/AeroXDevs",
-        live: "https://discord.gg/strelix"
+        github: "https://github.com/ZenkaiDevs",
+        live: "https://discord.gg/Zenkai"
       }
     },
     {
-      name: "Strelix Selfbot",
+      name: "Zenkai Selfbot",
       year: "2025",
       description: "Interactive data visualization and analytics platform for creating comprehensive dashboards with real-time insights.",
       tags: ["JavaScript", "nodejs", "selfbot.js"],
       status: "coming soon",
       featured: false,
       links: {
-        github: "https://github.com/AeroXDevs",
-        live: "https://discord.gg/strelix"
+        github: "https://github.com/ZenkaiDevs",
+        live: "https://discord.gg/Zenkai"
       }
     }
   ],
 
   // Social Links
   social: {
-    github: "https://github.com/AeroXDevs",
-    linkedin: "https://linkedin.com/in/aegis",
-    twitter: "https://twitter.com/aegis",
-    youtube: "https://youtube.com/@aerox-devs?si=PfSlKrjWD_pV2SXb",
-    email: "mailto:aegis@strelixcloud.com"
+    github: "",
+    linkedin: '",
+    twitter: "",
+    youtube: "",
+    email: ""
   },
 
   // Content Sections
