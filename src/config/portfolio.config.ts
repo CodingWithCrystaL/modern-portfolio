@@ -122,7 +122,7 @@ export const portfolioConfig = {
   // Social Links
   social: {
     github: "",
-    linkedin: '",
+    linkedin: "",
     twitter: "",
     youtube: "",
     email: ""
